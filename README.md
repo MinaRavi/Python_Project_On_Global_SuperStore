@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/0f175834-0db5-4a93-8977-8288e91de78d)
-
 # Global Superstore - Exploratory Data Analysis (EDA)
 
 This repository contains an Exploratory Data Analysis (EDA) project on the **Global Superstore** dataset. The goal of this project is to analyze the dataset, uncover meaningful insights, and present the findings visually.
